@@ -3,6 +3,7 @@
 Este repositorio está dedicado a explorar y documentar prácticas y herramientas relacionadas con MLOps (DevOps aplicado a Machine Learning). El objetivo principal es condensar recursos útiles para el despliegue, monitoreo, gestión y mantenimiento de modelos de machine learning en entornos de producción.
 
 ### Estructura del repositorio
+_________________________________
 
 El repositorio se organiza en cinco secciones principales, cada una enfocada en una etapa específica del proceso:
 
